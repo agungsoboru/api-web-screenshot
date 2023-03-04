@@ -7,3 +7,4 @@ Docker image apline linux dan google chrome driver dengan fast api python. bagi 
 
 # Docker image yang sudah jadi 
 
+docker run -it --cap-add=SYS_ADMIN -p 12002:8000 -u agungsurya agungsurya/api-web-screenshot:v1
