@@ -15,6 +15,8 @@ untuk menjalankan api pertama perlu masuk kedalam kontainer api-srver pertama ny
 
 ketika sudah masuk kedalam kontainer maka akan berada pada directory ini `/usr/src/app $`
 
+lalu ketik command cd agar kembali ke home directory yaitu /home/agungsurya
+
 lalu di sana ada direcotry screnshoot masuk ke dalam dir tersebut
 
 ada file python bernama `api-screenshoot.py` jalankan file tersebut dengan tmux atau screen dengan command seperti di bawah ini
