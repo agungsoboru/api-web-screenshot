@@ -44,6 +44,7 @@ services:
       - "12002:8000"
     command: python3 -m uvicorn api-screenshoot:app --host=0.0.0.0
 ```
+Setelah melakukan perubahan pada docker-compose.yml, jalankan perintah docker-compose up pada direktori yang sama dengan docker-compose.yml file untuk menjalankan container Docker.
 
 # image alpine dari
 
