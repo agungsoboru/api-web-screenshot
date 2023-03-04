@@ -41,7 +41,7 @@ services:
     volumes:
       - /home/agungsurya/screenshoot:/home/agungsurya/screenshoot
     ports:
-      - "8000:8000"
+      - "12002:8000"
     command: python3 -m uvicorn api-screenshoot:app --host=0.0.0.0
 ```
 
