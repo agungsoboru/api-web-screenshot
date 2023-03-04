@@ -27,5 +27,5 @@ ketika sudah berjalan bisa di cek port external di host yaitu 12000 (ketika memb
 
 lalu coba akses
 
-http://<alamat-ip>:12002/screenshot/google.com/ atau http://<alamat-ip>:12002/api
+http://alamat-ip:12002/screenshot/google.com/ atau http://alamat-ip:12002/api
 
